@@ -1,7 +1,7 @@
 <img src= "./cover.png" />
 
 <p align = "center" >
-  <a href="https://twitter.com/adityavag" target="_blank"><img src="https://img.shields.io/badge/portfolio-EF2D5E?&style=for-the-badge" /></a>
+  <a href="adityavag.netlify.app" target="_blank"><img src="https://img.shields.io/badge/portfolio-EF2D5E?&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/adityacse/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/adityavag" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
