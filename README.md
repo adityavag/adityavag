@@ -10,7 +10,7 @@
 <h2 align="center">About Me</h2>
   <ul>
     <li>🌱 I’m currently learning TypeScript</li>
-    <li>💬 Ask me about React Spring Boot</li>
+    <li>💬 Ask me about Spring Boot</li>
     <li>📫 Reach <a href="mailto:adi247u@gmail.com" target="_blank">adi247u@gmail.com</a></li>
   </ul>
   <p align = "center" >
@@ -25,7 +25,6 @@
     <img src="https://img.shields.io/badge/TailwindCSS-0f1629?style=flat-square&logo=tailwindcss" alt="TailwindCSS" />
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
     <img src="https://img.shields.io/badge/Figma-282828?style=flat-square&logo=figma" alt="Figma" />
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring" />
     <img src="https://img.shields.io/badge/Node.js-141414?style=flat-square&logo=nodedotjs" alt="Node.js" />
     <img src="https://img.shields.io/badge/GitHub-0d1116?style=flat-square&logo=github" alt="GitHub" />
